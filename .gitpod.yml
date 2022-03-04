@@ -20,3 +20,4 @@ ports:
 vscode:
   extensions:
     - 9j.amvim
+    - vscode.github
