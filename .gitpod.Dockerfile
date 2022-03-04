@@ -6,6 +6,7 @@ ENV CYPRESS_CACHE_FOLDER=/workspace/.cypress-cache
 RUN sudo apt-get update \
  && sudo DEBIAN_FRONTEND=noninteractive apt-get install -y \
    libgtk2.0-0 \
+   libgbm-dev \
    libgtk-3-0 \
    libnotify-dev \
    libgconf-2-4 \
