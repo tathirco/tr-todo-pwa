@@ -1,0 +1,20 @@
+{
+  "name": "tr-todo-pwa",
+  "version": "1.0.0",
+  "description": "[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tathirco/tr-todo-pwa.git)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sapper dev", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tathirco/tr-todo-pwa.git"
+  },
+  "author": "iwahjoedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tathirco/tr-todo-pwa/issues"
+  },
+  "homepage": "https://github.com/tathirco/tr-todo-pwa#readme"
+}
