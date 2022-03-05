@@ -1,6 +1,7 @@
+#.gitignore
 .DS_Store
 /node_modules/
-/src/node_modules/@sapper/
+npm-debug.log
 yarn-error.log
 /cypress/screenshots/
 /__sapper__/
